@@ -1,0 +1,5 @@
+natural progression of tasks...
+x multiplication of complex polynomials
+- butterworth filter using pole calculation (any order) (hpf/lpf)
+- chebyshev filter of any order (lpf)
+- SPlaneFilter type that can be translated into a ZPLaneFilter by using the bilinear transform

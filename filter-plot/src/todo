@@ -1,0 +1,26 @@
+
+    //todo read more about inline
+    //todo filter magnitude (bode plot)
+    //todo phase response (bode plot) <--- DO THIS!
+    //todo step response
+    //todo impulse response
+    //todo nichols chart
+    //todo pole-zero map
+    //todo root response
+    //todo filter impl (difference equation)
+
+
+    //todo https://en.wikipedia.org/wiki/Kronecker_delta
+    fn delta(length:usize){
+
+    }
+
+    //todo discrete convolution
+    fn convolute(){
+
+    }
+
+    //http://www.mathworks.com/help/control/examples/plotting-system-responses.html
+    //https://en.wikipedia.org/wiki/Infinite_impulse_response
+
+    //create unit step function (for passing into transfer function) https://en.wikipedia.org/wiki/Heaviside_step_function#Discrete_form

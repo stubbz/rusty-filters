@@ -1,0 +1,10 @@
+[package]
+name = "filter-plot"
+version = "0.1.0"
+authors = ["stubbz <stubbz@gmail.com>"]
+
+[dependencies.gnuplot]
+git = "https://github.com/SiegeLord/RustGnuplot.git"
+
+[dependencies.num]
+[dependencies.symbolic_polynomials]

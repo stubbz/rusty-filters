@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="filter-plot" external.linked.project.path="C:\Users\Matt\Code\filter-plot" external.root.project.path="$MODULE_DIR$" external.system.id="Cargo" type="RUST_MODULE" version="4">
+  <component name="CargoModuleData">
+    <option name="myTargets">
+      <list>
+        <SerializableTarget>
+          <option name="kind" value="BIN" />
+          <option name="path" value="src\main.rs" />
+        </SerializableTarget>
+      </list>
+    </option>
+    <option name="myExternCrates">
+      <list>
+        <SerializableExternCrate>
+          <option name="name" value="symbolic_polynomials" />
+          <option name="path" value="C:\Users\Matt\.cargo\registry\src\github.com-88ac128001ac3a9a\symbolic_polynomials-0.0.2\src\lib.rs" />
+        </SerializableExternCrate>
+        <SerializableExternCrate>
+          <option name="name" value="gnuplot" />
+          <option name="path" value="C:\Users\Matt\.cargo\git\checkouts\rustgnuplot-fd29306e9a23310a\master\src\lib.rs" />
+        </SerializableExternCrate>
+        <SerializableExternCrate>
+          <option name="name" value="num" />
+          <option name="path" value="C:\Users\Matt\.cargo\registry\src\github.com-88ac128001ac3a9a\num-0.1.31\src\lib.rs" />
+        </SerializableExternCrate>
+      </list>
+    </option>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Cargo: symbolic_polynomials 0.0.2" level="project" />
+    <orderEntry type="library" name="Cargo: gnuplot 0.0.20" level="project" />
+    <orderEntry type="library" name="Cargo: num 0.1.31" level="project" />
+  </component>
+</module>

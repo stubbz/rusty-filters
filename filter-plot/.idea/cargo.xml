@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoSettings">
+    <option name="linkedExternalProjectsSettings">
+      <CargoProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="C:\Users\Matt\Code\filter-plot" />
+          </set>
+        </option>
+        <option name="sdkName" value="Rust 1.7.0" />
+        <option name="useAutoImport" value="true" />
+      </CargoProjectSettings>
+    </option>
+  </component>
+</project>
