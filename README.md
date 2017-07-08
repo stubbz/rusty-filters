@@ -5,9 +5,9 @@ I built this library to experiment with and understand protoyping various filter
 
 ## example output
 
-### "moog low pass filter" with various cutoff frequencies and quality factors
+### "moog low pass filter" plotted at various cutoff frequencies and quality factors
 ![frequency response of moog low pass filter](/images/moog4.png "frequency response of moog low pass filter")
-### butterworth low pass filter with various cutoff frequencies
+### butterworth low pass filter plotted at various cutoff frequencies
 ![frequency response of butterworth low pass filter](/images/butter4.png "frequency response of butterworth low pass filter")
-### butterworth high pass filter with various cutoff frequencies
+### butterworth high pass filter plotted at various cutoff frequencies
 ![frequency response of butterworth high pass filter](/images/butter4-hpf.png "frequency response of butterworth high pass filter")
